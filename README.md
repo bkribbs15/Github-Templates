@@ -15,7 +15,7 @@ REPO DESCIPTION
 CODE SAMPLE
 ```
 
-### SETUP
+### Setup
 
 ```
 INSTALL SCRIPT
