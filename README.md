@@ -1,13 +1,13 @@
 
 <h1 align="center">
-Title
+Repo Title
 </h1>
 
 <p align="left">
     ## ICONS
 </p>
 
-## Title
+## Repo Title
 
 REPO DESCIPTION
 
