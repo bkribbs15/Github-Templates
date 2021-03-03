@@ -14,20 +14,23 @@ REPO DESCIPTION
 ```
 CODE SAMPLE
 ```
-
-### Setup
+<h2 align="Left">
+Setup
+</h2>
 
 ```
 INSTALL SCRIPT
 ```
-
-### Local Development
+<h2 align="Left">
+Local Development
+</h2>
 
 ```
 RUNNING SCRIPT
 ```
-
-### Contributors
+<h2 align="Left">
+Contributors
+</h2>
 
 - Bryan Kribbs (bakribbs@us.ibm.com)
 
